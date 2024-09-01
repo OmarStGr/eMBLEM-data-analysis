@@ -14,6 +14,17 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
 
     ```bash
     pip install -r requirements.txt
+
+    or install the following packages using pip
+    - pandas
+    - numpy
+     - matplotlib
+     - scipy
+     - scikit-learn
+     - pillow
+     - ipywidgets
+
+You can install these packages using `pip`:
 4. Open the Jupyter notebook and run the cells.
 
 ## Summary
