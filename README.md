@@ -12,7 +12,7 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
 1. **Clone the repository**:
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/emblem-data-analysis.git
+     git clone https://github.com/OmarStGr/eMBLEM-data-analysis.git
      ```
 
 2. **Install the required Python packages:
