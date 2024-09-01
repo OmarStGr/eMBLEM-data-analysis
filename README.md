@@ -14,7 +14,7 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
 
     ```bash
     pip install -r requirements.txt
-
+     ```bash 
     or install the following packages using pip
     - pandas
     - numpy
@@ -24,7 +24,7 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
      - pillow
      - ipywidgets
 
-You can install these packages using `pip`:
+
 4. Open the Jupyter notebook and run the cells.
 
 ## Summary
