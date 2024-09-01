@@ -9,8 +9,12 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
 
 ## How to Use
 1. Clone the repository.
-2. Install the required Python packages (e.g., pandas, matplotlib, ipywidgets).
-3. Open the Jupyter notebook and run the cells.
+2. Install the required Python packages
+     To install the required packages, run the following command in your terminal:
+
+    ```bash
+    pip install -r requirements.txt
+4. Open the Jupyter notebook and run the cells.
 
 ## Summary
 The notebook demonstrates the use of Python for data analysis and visualization in the context of comparing two measurement methods. It includes an interactive Bland-Altman plot to dynamically explore agreement between methods.
