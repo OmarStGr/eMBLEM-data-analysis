@@ -15,14 +15,18 @@ This repository contains a Jupyter notebook that analyzes the agreement between 
      git clone https://github.com/your-username/emblem-data-analysis.git
      ```
 
-2. **Install the required Python packages**:
+2. **Install the required Python packages:
    - You can install the required packages by running the following command in your terminal:
      ```bash
      pip install -r requirements.txt
      ```
    - Alternatively, you can manually install the necessary packages using pip:
      ```bash
-     pip install pandas numpy matplotlib scipy scikit-learn pillow ipywidgets
+     pip install pandas numpy matplotlib scipy scikit-learn pillow ipywidgets 
+     ```
+   - Ensure you have Jupyter Notebook installed:
+     ```bash
+     pip install notebook
      ```
 
 3. **Open the Jupyter notebook**:
